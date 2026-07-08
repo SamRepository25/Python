@@ -46,10 +46,12 @@ print(total)
 #Logical and Comparsion Operators Example
 print("Logical and Comparsion Oprtators")
 
-age = int(input("Enter your age :"))
-student = (input("Are you a Student :"))
+age = 60
+student = "yes"
 
 if age >= 60 or student == "yes":
     print("Eligible for discount!")
 else:
     print("Not Eligible for discount!")
+
+    print("Git is tracking this change")
