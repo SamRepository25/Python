@@ -29,12 +29,12 @@ This repository contains my Python practice programs, exercises, and notes while
 - [x] What is PEP?
 - [x] Variables & Data Types
 - [x] Variable Scope
+- [x] Type Casting & Type Checking
+- [x] Operators in Python
+- [x] Python Comments
 
 ### ⏳ Coming Next
 
-- [ ] Type Casting & Type Checking
-- [ ] Operators in Python
-- [ ] Python Comments
 - [ ] Input Handling
 - [ ] Strings
 - [ ] If, Elif, Else
