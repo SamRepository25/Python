@@ -1,24 +1,24 @@
 #LEGB = Local → Enclosing → Global → Built-in
 
 #L
-'''
+
 def order():
     food = "Briyani"
     print("Your order is :", food)
 order()
-'''
+
 #E
-'''
+
 def cart():
     discount = 10
     def checkout():
         print("Applying discount:", discount)
     checkout()
 cart()
-'''
+
 
 #G
-'''
+
 user_id = "simakahmed18"
 
 def homepage():
@@ -28,7 +28,7 @@ def profile():
 
 homepage()
 profile()
-'''
+
 #B
 '''print(__file__)'''
 
