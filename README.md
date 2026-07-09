@@ -32,10 +32,10 @@ This repository contains my Python practice programs, exercises, and notes while
 - [x] Type Casting & Type Checking
 - [x] Operators in Python
 - [x] Python Comments
+- [x] Input Handling
 
 ### ⏳ Coming Next
 
-- [ ] Input Handling
 - [ ] Strings
 - [ ] If, Elif, Else
 - [ ] Loops
